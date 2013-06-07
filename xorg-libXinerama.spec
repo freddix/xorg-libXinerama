@@ -1,11 +1,11 @@
 Summary:	Xinerama extension library
 Name:		xorg-libXinerama
-Version:	1.1.2
-Release:	3
+Version:	1.1.3
+Release:	1
 License:	MIT
 Group:		X11/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXinerama-%{version}.tar.bz2
-# Source0-md5:	cb45d6672c93a608f003b6404f1dd462
+# Source0-md5:	9336dc46ae3bf5f81c247f7131461efd
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
